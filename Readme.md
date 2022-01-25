@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Линар Агадуллин](https://up.htmlacademy.ru/htmlcss/33/user/905885).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Макаров](https://htmlacademy.ru/profile/deepsick).
 
 ---
 
